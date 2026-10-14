@@ -10,17 +10,16 @@ Full-Stack Developer passionate about building tech that improves people's lives
 
 ## Top Projects
 
-### Digital Audio Plugin
-*Advanced DAW plugin using innovative DSP synthesis techniques (C++ & JUCE)*  
-> Bringing professional-grade sound design tools to music creators.
+### [Movie/TV Series Recommendation Engine](https://github.com/psrearick/film-recs)
+
+Laravel/React website for personalized recommendation based on user ratings.
 
 ### [Static Website Builder and UI Library](https://github.com/psrearick/template-components)
-*JavaScript tool for building static websites with dynamic components*  
-> Combines a versatile UI library with static site generation for highly maintainable, component-driven web projects.
+
+JavaScript tool for building static websites with dynamic components. Combines a versatile UI library with static site generation for highly maintainable, component-driven web projects.
 
 ### [Reddit Market Research Framework](https://github.com/psrearick/reddit-market-assessment)
-*Flexible framework for market research using Reddit discussions*  
-> Analyze product concepts and trends by mining real-world conversations.
+Flexible framework for market research using Reddit discussions. Analyze product concepts and trends by mining real-world conversations.
 
 ## What Drives Me
 
@@ -28,7 +27,7 @@ I love building technology that genuinely makes a difference in people’s lives
 
 ## Fun Fact
 
-Aside from coding, I'm currently writing a sci-fi/fantasy novel—ask me about it!
+Aside from coding, I'm currently writing my second sci-fi/fantasy novel—ask me about it!
 
 ## Connect with Me
 
